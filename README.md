@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="assets/logo.png?v=1" width="280" alt="houseplant-ooo-01 logo">
+
+**The houseplant out of office.**
+
+![Python](https://img.shields.io/badge/Language-Python-FF7A00?style=for-the-badge&labelColor=0A1931) ![License: MIT](https://img.shields.io/badge/License-MIT-FF7A00?style=for-the-badge&labelColor=0A1931) ![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-FF7A00?style=for-the-badge&labelColor=0A1931)
+
+</div>
+
 # houseplant-ooo-01
 
 [![make.fun · u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047](https://make.fun/badge/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047)
